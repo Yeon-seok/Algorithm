@@ -1,4 +1,4 @@
-# Algoritme 
+# Algoritm
 > 알고리즘 개인 이론 공부
 
 ## 공부 내용
